@@ -1,2 +1,3 @@
 Šīs ir tests, kad sinhronizē lokālo un globālo glabātuvi
 Tā ir otrā eksperimenta daļā - dokuments labots mākonī
+Lokālajā datnē vecu izmaiņas
