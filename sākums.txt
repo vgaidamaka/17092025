@@ -1,0 +1,1 @@
+Šīs ir tests, kad sinhronizē lokālo un globālo glabātuvi
