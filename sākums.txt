@@ -1,3 +1,5 @@
 Šīs ir tests, kad sinhronizē lokālo un globālo glabātuvi
 Tā ir otrā eksperimenta daļā - dokuments labots mākonī
+<<<<<<< HEAD
 Lokālajā datnē vecu izmaiņas
+tests2
